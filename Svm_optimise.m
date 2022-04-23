@@ -1,5 +1,4 @@
-% visit - www.spaerix.com
-% contact spaerixinfotech@gmail.com
+%
 % clear the environment
 clc;clear;close all;
 global  traindata trainlabel valdata vallabela
